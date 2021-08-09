@@ -81,14 +81,15 @@ Fonte Consistente de SLP, necessário fazer os 3 passos(abaixo) e confirmar a co
 
 Estima-se que o Rank dê os seguintes SLP:
 
-|   Rank    |  SLP  |
-| :-------: | :---: |
-|   <1100   |   4   |
-| 1101~1299 |   6   |
-| 1300~1399 |   9   |
-| 1400~1499 | 11/12 |
-|   1500<   | 13~15 |
-|     ?     |   ?   |
+|    Rank    | SLP  |
+| :--------: | :--: |
+|   <1100    |  4   |
+| 1101~1299  |  6   |
+| 1300~1399  |  9   |
+| 1400~1499  |  12  |
+| 1500~~1599 |  15  |
+| 1600~~1699 |  18  |
+| 1700~~1799 |  20  |
 
 
 
