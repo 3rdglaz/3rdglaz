@@ -18,6 +18,4 @@ Always learning, always improving
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rdglaz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-
-![snek](https://github.com/3rdglaz/blob/output/github-contribuition-grid-snake.svg
     
