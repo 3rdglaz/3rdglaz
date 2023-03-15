@@ -4,11 +4,10 @@
 
 #### Be it:
 - InfoSec
-- C
-- C#
-- Java
-- Python
+- Programming
 - Terraform
+- Kubernetes
+- Docker
 
 Always learning, always improving
 
