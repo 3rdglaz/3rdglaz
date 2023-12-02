@@ -3,7 +3,7 @@
 ### This is a simple catalog of my study cases,
 
 #### Be it:
-- InfoSec
+
 - Programming
 - Infrastructure
 
